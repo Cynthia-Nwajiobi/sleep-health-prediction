@@ -27,7 +27,7 @@ The findings from this analysis can help individuals, fitness app developers, an
 - Age has a strong correlation with sleep performance as well
 
 ### Insights and Recommendations
--Lifestyle choices affect our health more than we realise and sleep health is one of the most important components of our wellbeing. Poor sleep health leads to depression, obesity, cardiovascular disorders, etc. 
+- Lifestyle choices affect our health more than we realise and sleep health is one of the most important components of our wellbeing. Poor sleep health leads to depression, obesity, cardiovascular disorders, etc. 
 - Technology has made it easier to track vital health metrics. With wearable devices and fitness apps, we can now track daily steps, heart rate, BP, sleep duration and sleep quality, but there’s a missing piece.
 
 ### Next Steps
