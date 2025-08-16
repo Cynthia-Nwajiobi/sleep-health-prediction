@@ -1,4 +1,4 @@
-# sleep-health-prediction
+# Sleep Health Prediction
 ### Project Overview
 This project analyses a dataset containing demographic, lifestyle, and health-related variables, including physical activity level, stress level, sleep patterns, BMI, blood pressure, and sleep disorders.
 With rising awareness of lifestyle-related health challenges, analysing sleep health data provides an opportunity to uncover insights that can inform healthier habits and preventive care. 
