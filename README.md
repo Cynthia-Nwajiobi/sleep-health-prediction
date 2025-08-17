@@ -30,7 +30,7 @@ The findings from this analysis can help individuals, fitness app developers, an
 - Lifestyle choices affect our health more than we realise and sleep health is one of the most important components of our wellbeing. Poor sleep health leads to depression, obesity, cardiovascular disorders, etc. 
 - Technology has made it easier to track vital health metrics. With wearable devices and fitness apps, we can now track daily steps, heart rate, BP, sleep duration and sleep quality, but there’s a missing piece.
 
-### Next Steps
+### Use Case
 - Through predictive modelling, we know just how much physical activity is needed to get a good night’s rest.
 - To implement the findings from this analysis, fitness app developers and wearable tech companies can now add a feature that predicts a user’s sleep health score and provide them with actionable steps to take to improve their sleep score.
 - This will be a game changer not just for the tech companies behind these devices but for preventive care as a whole. 
